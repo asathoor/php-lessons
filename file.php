@@ -1,5 +1,6 @@
 <?php
 /*
+purpose: Prepare for mini-cms creation
 file: file.php
 what: open, read, write to  files
 by: Per Thykjaer Jensen
